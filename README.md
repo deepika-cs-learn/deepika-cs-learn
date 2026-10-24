@@ -1,13 +1,12 @@
 # Hi 👋, I'm Deepika Gummalla
 
 🎓 B.Tech AIML Student at Aditya University!                                                                                
-💡 Passionate about AI/ML, Agentic Systems, LLM Fine-Tuning, and Problem Solving.
+💡 Passionate about AI/ML, Agentic Systems, and Problem Solving(DSA).
 
 ## 🚀 About Me
 
 * 🌱 Currently learning Agentic AI, LLM fine-tuning, and AI security
-* 🐍 Skilled in Python, C, and SQL
-* 🛡️ Interested in prompt injection detection and building safe AI systems
+* 🐍 Skilled in Python, C++, C, and SQL
 * 🤖 Building AI agents and end-to-end ML pipelines
 * 💻 Solving coding problems on LeetCode, HackerRank, and CodeChef
 * 🎯 Goal: Become an AI/ML Engineer
@@ -15,22 +14,14 @@
 ## 🛠️ Skills
 
 * Python
-* C Programming
+* C,C++ Programming
 * SQL 
 * Machine Learning & Deep Learning
 * LLM Fine-Tuning (QLoRA, Unsloth)
 * Ollama / Local LLM Deployment
 * Git & GitHub
+* Power BI
 * Data Structures & Algorithms
-
-## 🧪 Featured Projects
-
-* 🛡️ **ShieldAgent**: hybrid prompt injection detection with a three-tier pipeline (heuristic scanning, a fine-tuned DeBERTa-v3 classifier, and Llama 3.2 3B via Ollama), served through a FastAPI backend
-* 🎬 **SceneCraft**: a QLoRA fine-tuned Qwen2.5-3B-Instruct prompt-enhancer, exported to GGUF and deployed on [Ollama](https://ollama.com/deepikagummallacs/scenecraft)
-* 🎟️ **BookMyShow DB**: a BookMyShow-inspired relational database system built on Oracle SQL
-* 📚 **Library Management System**: a C-based application
-* 🌐 **Portfolio Website**: a single-file "model card" style resume site with an interactive 3D ID card
-* 🏷️ **LabelLens**: an AI compliance scanner for Legal Metrology packaged-commodity rules (Smart India Hackathon 2026)
 
 ## 📚 Platforms
 
