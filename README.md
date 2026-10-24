@@ -1,6 +1,6 @@
 # Hi 👋, I'm Deepika Gummalla
 
-🎓 B.Tech AIML Student at Aditya University! 
+🎓 B.Tech AIML Student at Aditya University!                                                                                
 💡 Passionate about AI/ML, Agentic Systems, LLM Fine-Tuning, and Problem Solving.
 
 ## 🚀 About Me
